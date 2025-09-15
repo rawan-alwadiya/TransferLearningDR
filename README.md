@@ -79,7 +79,6 @@ The model achieved **high precision and recall**, ensuring reliable DR detection
 - **Kaggle Notebook**: [View on Kaggle](https://www.kaggle.com/code/rawanalwadeya/transferlearningdr-diabetic-retinopathy-detection)  
 - **Streamlit App**: [Try it Now](https://transferlearningdr-httrdrrzqndfzqbyak8wkc.streamlit.app/)  
 - **Hugging Face Repo**: [Explore on Hugging Face](https://huggingface.co/RawanAlwadeya/TransferLearningDR)  
-- **GitHub Repo**: [TransferLearningDR](https://github.com/rawan-alwadiya/TransferLearningDR)
 
 ---
 
